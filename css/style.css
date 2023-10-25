@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 2em;
+  align-items: center;
+  border-bottom: 1px solid darkgreen;
+}
+
+.nav-logo img {
+  max-height: 40px;
+}
+
+.nav {
+  display: flex;
+}
+
+.nav-item {
+  padding: 0 1em;
+  border: 0.5px solid black;
+  min-width: 100px;
+  text-align: center;
+}
+
